@@ -1,0 +1,11 @@
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\bin\Debug\btBuoi4.exe.config
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\bin\Debug\btBuoi4.exe
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\bin\Debug\btBuoi4.pdb
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.csproj.AssemblyReference.cache
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.ListView.resources
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.Form2.resources
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.Properties.Resources.resources
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.csproj.GenerateResource.cache
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.csproj.CoreCompileInputs.cache
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.exe
+C:\Users\kingn\source\repos\btBuoi4\btBuoi4\obj\Debug\btBuoi4.pdb
